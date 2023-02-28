@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\pratik\arraymethod\bin\Debug\net6.0\arraymethod.exe
+C:\Users\asus\Desktop\pratik\arraymethod\bin\Debug\net6.0\arraymethod.deps.json
+C:\Users\asus\Desktop\pratik\arraymethod\bin\Debug\net6.0\arraymethod.runtimeconfig.json
+C:\Users\asus\Desktop\pratik\arraymethod\bin\Debug\net6.0\arraymethod.dll
+C:\Users\asus\Desktop\pratik\arraymethod\bin\Debug\net6.0\arraymethod.pdb
+C:\Users\asus\Desktop\pratik\arraymethod\obj\Debug\net6.0\arraymethod.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\pratik\arraymethod\obj\Debug\net6.0\arraymethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\pratik\arraymethod\obj\Debug\net6.0\arraymethod.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\pratik\arraymethod\obj\Debug\net6.0\arraymethod.AssemblyInfo.cs
+C:\Users\asus\Desktop\pratik\arraymethod\obj\Debug\net6.0\arraymethod.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\pratik\arraymethod\obj\Debug\net6.0\arraymethod.dll
+C:\Users\asus\Desktop\pratik\arraymethod\obj\Debug\net6.0\refint\arraymethod.dll
+C:\Users\asus\Desktop\pratik\arraymethod\obj\Debug\net6.0\arraymethod.pdb
+C:\Users\asus\Desktop\pratik\arraymethod\obj\Debug\net6.0\arraymethod.genruntimeconfig.cache
+C:\Users\asus\Desktop\pratik\arraymethod\obj\Debug\net6.0\ref\arraymethod.dll
