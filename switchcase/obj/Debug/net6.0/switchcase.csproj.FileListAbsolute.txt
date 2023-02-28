@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\pratik\switchcase\bin\Debug\net6.0\switchcase.exe
+C:\Users\asus\Desktop\pratik\switchcase\bin\Debug\net6.0\switchcase.deps.json
+C:\Users\asus\Desktop\pratik\switchcase\bin\Debug\net6.0\switchcase.runtimeconfig.json
+C:\Users\asus\Desktop\pratik\switchcase\bin\Debug\net6.0\switchcase.dll
+C:\Users\asus\Desktop\pratik\switchcase\bin\Debug\net6.0\switchcase.pdb
+C:\Users\asus\Desktop\pratik\switchcase\obj\Debug\net6.0\switchcase.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\pratik\switchcase\obj\Debug\net6.0\switchcase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\pratik\switchcase\obj\Debug\net6.0\switchcase.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\pratik\switchcase\obj\Debug\net6.0\switchcase.AssemblyInfo.cs
+C:\Users\asus\Desktop\pratik\switchcase\obj\Debug\net6.0\switchcase.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\pratik\switchcase\obj\Debug\net6.0\switchcase.dll
+C:\Users\asus\Desktop\pratik\switchcase\obj\Debug\net6.0\refint\switchcase.dll
+C:\Users\asus\Desktop\pratik\switchcase\obj\Debug\net6.0\switchcase.pdb
+C:\Users\asus\Desktop\pratik\switchcase\obj\Debug\net6.0\switchcase.genruntimeconfig.cache
+C:\Users\asus\Desktop\pratik\switchcase\obj\Debug\net6.0\ref\switchcase.dll
