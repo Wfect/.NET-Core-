@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\C#\metottanımlama\bin\Debug\net6.0\metottanımlama.exe
+C:\Users\asus\Desktop\C#\metottanımlama\bin\Debug\net6.0\metottanımlama.deps.json
+C:\Users\asus\Desktop\C#\metottanımlama\bin\Debug\net6.0\metottanımlama.runtimeconfig.json
+C:\Users\asus\Desktop\C#\metottanımlama\bin\Debug\net6.0\metottanımlama.dll
+C:\Users\asus\Desktop\C#\metottanımlama\bin\Debug\net6.0\metottanımlama.pdb
+C:\Users\asus\Desktop\C#\metottanımlama\obj\Debug\net6.0\metottanımlama.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\C#\metottanımlama\obj\Debug\net6.0\metottanımlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\C#\metottanımlama\obj\Debug\net6.0\metottanımlama.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\C#\metottanımlama\obj\Debug\net6.0\metottanımlama.AssemblyInfo.cs
+C:\Users\asus\Desktop\C#\metottanımlama\obj\Debug\net6.0\metottanımlama.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\C#\metottanımlama\obj\Debug\net6.0\metottanımlama.dll
+C:\Users\asus\Desktop\C#\metottanımlama\obj\Debug\net6.0\refint\metottanımlama.dll
+C:\Users\asus\Desktop\C#\metottanımlama\obj\Debug\net6.0\metottanımlama.pdb
+C:\Users\asus\Desktop\C#\metottanımlama\obj\Debug\net6.0\metottanımlama.genruntimeconfig.cache
+C:\Users\asus\Desktop\C#\metottanımlama\obj\Debug\net6.0\ref\metottanımlama.dll
