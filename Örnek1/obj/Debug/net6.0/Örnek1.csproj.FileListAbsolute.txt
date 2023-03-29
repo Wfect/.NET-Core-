@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\C#\Örnek1\bin\Debug\net6.0\Örnek1.exe
+C:\Users\asus\Desktop\C#\Örnek1\bin\Debug\net6.0\Örnek1.deps.json
+C:\Users\asus\Desktop\C#\Örnek1\bin\Debug\net6.0\Örnek1.runtimeconfig.json
+C:\Users\asus\Desktop\C#\Örnek1\bin\Debug\net6.0\Örnek1.dll
+C:\Users\asus\Desktop\C#\Örnek1\bin\Debug\net6.0\Örnek1.pdb
+C:\Users\asus\Desktop\C#\Örnek1\obj\Debug\net6.0\Örnek1.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\C#\Örnek1\obj\Debug\net6.0\Örnek1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\C#\Örnek1\obj\Debug\net6.0\Örnek1.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\C#\Örnek1\obj\Debug\net6.0\Örnek1.AssemblyInfo.cs
+C:\Users\asus\Desktop\C#\Örnek1\obj\Debug\net6.0\Örnek1.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\C#\Örnek1\obj\Debug\net6.0\Örnek1.dll
+C:\Users\asus\Desktop\C#\Örnek1\obj\Debug\net6.0\refint\Örnek1.dll
+C:\Users\asus\Desktop\C#\Örnek1\obj\Debug\net6.0\Örnek1.pdb
+C:\Users\asus\Desktop\C#\Örnek1\obj\Debug\net6.0\Örnek1.genruntimeconfig.cache
+C:\Users\asus\Desktop\C#\Örnek1\obj\Debug\net6.0\ref\Örnek1.dll
