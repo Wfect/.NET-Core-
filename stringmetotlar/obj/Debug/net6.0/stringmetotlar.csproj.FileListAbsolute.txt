@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\C#\stringmetotlar\bin\Debug\net6.0\stringmetotlar.exe
+C:\Users\asus\Desktop\C#\stringmetotlar\bin\Debug\net6.0\stringmetotlar.deps.json
+C:\Users\asus\Desktop\C#\stringmetotlar\bin\Debug\net6.0\stringmetotlar.runtimeconfig.json
+C:\Users\asus\Desktop\C#\stringmetotlar\bin\Debug\net6.0\stringmetotlar.dll
+C:\Users\asus\Desktop\C#\stringmetotlar\bin\Debug\net6.0\stringmetotlar.pdb
+C:\Users\asus\Desktop\C#\stringmetotlar\obj\Debug\net6.0\stringmetotlar.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\C#\stringmetotlar\obj\Debug\net6.0\stringmetotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\C#\stringmetotlar\obj\Debug\net6.0\stringmetotlar.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\C#\stringmetotlar\obj\Debug\net6.0\stringmetotlar.AssemblyInfo.cs
+C:\Users\asus\Desktop\C#\stringmetotlar\obj\Debug\net6.0\stringmetotlar.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\C#\stringmetotlar\obj\Debug\net6.0\stringmetotlar.dll
+C:\Users\asus\Desktop\C#\stringmetotlar\obj\Debug\net6.0\refint\stringmetotlar.dll
+C:\Users\asus\Desktop\C#\stringmetotlar\obj\Debug\net6.0\stringmetotlar.pdb
+C:\Users\asus\Desktop\C#\stringmetotlar\obj\Debug\net6.0\stringmetotlar.genruntimeconfig.cache
+C:\Users\asus\Desktop\C#\stringmetotlar\obj\Debug\net6.0\ref\stringmetotlar.dll
