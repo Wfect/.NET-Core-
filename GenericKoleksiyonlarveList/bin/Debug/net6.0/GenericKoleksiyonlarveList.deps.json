@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GenericKoleksiyonlarveList/1.0.0": {
+        "runtime": {
+          "GenericKoleksiyonlarveList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GenericKoleksiyonlarveList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
