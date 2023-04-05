@@ -1,0 +1,5 @@
+C:\Users\asus\Desktop\C#\ArrayList\obj\Debug\net6.0\ArrayList.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\C#\ArrayList\obj\Debug\net6.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\C#\ArrayList\obj\Debug\net6.0\ArrayList.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\C#\ArrayList\obj\Debug\net6.0\ArrayList.AssemblyInfo.cs
+C:\Users\asus\Desktop\C#\ArrayList\obj\Debug\net6.0\ArrayList.csproj.CoreCompileInputs.cache
